@@ -12,6 +12,3 @@ The Dynamic Programming is one of the different algorithm paradigms. In this app
 8) Rod Cutting Problem
 9) Coin Change Problem
 10) Word Break Problem
-
-# Project Type
-Web Application
